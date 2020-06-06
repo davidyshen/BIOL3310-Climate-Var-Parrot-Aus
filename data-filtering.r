@@ -5,6 +5,7 @@
 # Using auk package to filter data
 library(auk)
 
+#Import EBD dataset
 datadir <- "D:/eBird"
 
 #Synonyms: 
